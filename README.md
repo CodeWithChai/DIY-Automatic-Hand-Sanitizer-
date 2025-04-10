@@ -6,7 +6,7 @@
 - **2× SG90 Micro Servo Motors**
 - **Male & Female Jumper Wires**
 - **Mini Breadboard**
-- **Hand Sanitizer (for application mechanism)**
+- **Hand Sanitizer
 - **Ultrasonic Sensor – HC-SR04**
 - **9V Adapter for Arduino**
 - **Arduino Software (IDE)**
