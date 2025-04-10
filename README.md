@@ -1,12 +1,12 @@
 #Automatic Hand Sanitizer Dispenser using Arduino and C++
 
-Things you need:
+## 🧰 Components Used
 
-Arduino Uno
-2 SG90 Micro-servo motor
-Male & Female jumper wires
-Hand Sanitizer
-Mini Breadboard
-9V Adapter for Arduino
-Ultrasonic Sensor – HC-SR04
-Arduino Software (IDE)
+- **Arduino Uno**
+- **2× SG90 Micro Servo Motors**
+- **Male & Female Jumper Wires**
+- **Mini Breadboard**
+- **Hand Sanitizer (for application mechanism)**
+- **Ultrasonic Sensor – HC-SR04**
+- **9V Adapter for Arduino**
+- **Arduino Software (IDE)**
